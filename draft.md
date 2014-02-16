@@ -1,9 +1,9 @@
 ---
 title:		Film-Bindestrich-Soziologie
 author: 	Peter Flucher
-date: 		2013-12-31
+date: 		Winter 2013/14
 keywords: 	[soziologie, film, theorie]
-description: |
+abstract: |
 			Der Grund für das Scheitern der Filmsoziologie ist das Fehlen eines gemeinsamen Erkenntnis-Interesse. Wenn Film in der Soziologie vorkommt, dann als Artefakt, der mit der Gesellschaft in Beziehung gesetzt wird. Film ist entweder sozial verursacht oder hat soziale Auswirkungen. Jedoch ist der Film selbst nicht sozial, und kann somit nicht im Erkenntnisinteresse der Soziologie stehen. Eine Film-Soziologie in dessen Mittelpunkt der Film steht, benötigt eine soziologische Definiton von Film. Film selbst muss soziologisch verstanden werden. So eine Film-Soziologie zeigt, wie aus Gesellschaft Film und dann wieder Gesellschaft wird und verbindet somit die zwei Enden der Filmsoziologie.
 ---
 
@@ -100,13 +100,23 @@ references:
 - id:   Aristoteles
   type: book
 
-  title:           Die Poethik
+  title:           Poetik
   author:
   - family:        Aristoteles
   issued:
-    year:          -335
+    year:			1994
+  original-date:
+    year:          	-335
 
-  publisher:       Nature Publishing Group
+  publisher:      	Reclam
+  publisher-place:	Stuttgart
+  editor:
+  - family:			Fuhrmann
+    given:			Manfred
+  translator:
+  - family:			Fuhrmann
+    given:			Manfred
+  language:			griechisch; deutsch
 
 
 - id:   Becker2014
@@ -120,10 +130,30 @@ references:
     year:          2014
 
   publisher:       University of Carlifornia Press
-  publisher-place: Berkeley, Los Angeles, London
+  publisher-place: Berkeley/Los Angeles/London
 
+
+- id: Mai/Winter2006
+  type: chapter
+  title:			"Kino, Gesellschaft und soziale Wirklichkeit. Zum Verhältnis von Soziologie und Film"
+  author:
+  - family:			Mai
+    given:			Manfred
+  - family:			Winter
+    given:			Rainer
+
+    page-first:		7
+    page:			16
+  issued:
+    year:			2006
+  container-title: 	Das Kino der Gesellschaft - die Gesellschaft des Kinos
+  editor:
+  - family:			Mai
+    given:			Manfred
+  - family:			Winter
+    given:			Rainer
+  publisher:		Herbet von Halem Verlag
+  publisher-place:	Köln
 
 ---
-
-
 
