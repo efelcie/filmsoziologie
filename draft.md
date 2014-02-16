@@ -92,7 +92,38 @@ Das Ziel ist es Beschreibungen über Beschreibungen von Filmen anzufertigen, die
 
 Filme sind ein Davor und ein Danach Filme sind eine spezifische Verknüpfung von dem Davor mit dem Danach. Der Film ist nicht mehr und nicht weniger als diese Verknüpfung. Jedoch ist es nicht so leicht, dass man einfach die zwei oben genannten Soziologien mixen kann. Würde aus der Gesellschaft direkt Wirkung werden müsste man den Film garnicht erst analysieren. Doch das Verknüpfungsbündel, der Knoten Film, hat noch viele andere Enden. Eine Filmsoziologie, wie ich sie mir vorstelle, hat diese Enden zu identifizieren und zu zeigen wie diese Enden die scheinbare lineare Wirkung Gesellschaft -> Film -> Wirkung beeinflussen.
 
+# Literaturverzeichnis
 
+---
+references:
+
+- id:   Aristoteles
+  type: book
+
+  title:           Die Poethik
+  author:
+  - family:        Aristoteles
+  issued:
+    year:          300
+
+  publisher:       Nature Publishing Group
+
+
+- id:   Becker2014
+  type: book
+
+  title:           Art Worlds
+  author:
+  - family:        Becker
+    given:         Howard
+  issued:
+    year:          2014
+
+  publisher:       University of Carlifornia Press
+  publisher-place: Berkeley, Los Angeles, London
+
+
+---
 
 
 
