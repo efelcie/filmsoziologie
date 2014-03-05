@@ -57,10 +57,13 @@ Eine sinnvolle Spiegelfilmsoziologie sollte das Funktionieren eines Films als Be
 
 ## Kritische Filmsoziologie
 
-Die Kritische Filmsoziolgie geht entgegengesetzt zur Spiegelfilmsoziologie davon aus, das Film *nicht* Gessellschaft abbildet, sondern sie beeinflusst. Der Film ist ein Werkzeug der Mächtigen. Oder anders: wer den Film beherrscht ist mächtig. Ziel dieses Zugangs ist es in der Regel Ungerechtigkeit die durch den Film unterstützt wird aufzuzeigen, zu hinterfragen, und im besten Fall, gleich auszumerzen.
+Die Kritische Filmsoziolgie geht entgegengesetzt zur Spiegelfilmsoziologie davon aus, das Film *nicht* Gessellschaft abbildet, sondern sie beeinflusst. Der Film ist ein Werkzeug der Mächtigen. Oder anders: wer den Film beherrscht ist mächtig. Ziel dieses Zugangs ist es Ungerechtigkeit die durch den Film unterstützt wird aufzuzeigen, zu hinterfragen, und im besten Fall, gleich auszumerzen.
 
 Populäre Filme sind unter der perspektive nicht *wahrer* sondern mächtiger. Wichtige Punkte für die Kritische Filmsoziologie sind die Wahrnehmung der Filme, das wiederfinden Ähnlichkeiten und Differenzen zu vorwegdefinierten Zuständen. Also man sucht die Hegemonie von Hollywood im Film, oder stellt fest, dass es im Film noch weniger weibliche Führungspersonen als in der Wirklichkeit gibt.
 Die kritische Filmsoziologie, die durchaus auch einen pädagogisch-aufklärerischen Anspruch hat, versucht dafür zu sensibilisieren, dass Film *kein* Abbild der Realität ist, jedoch für viele als eine solche Wahrgenommen wird.
+
+Der wichtigste und auch aktivste Zweig der Kritischen Filmsoziologie ist die "Filmanalyse aus der Sicht der Cultural Studies" [@Winter2003 p. 151]. "Zentral für das machtkritische Projekt der Cultural Studies sind Fragen, wie Widerstand und gesellschaftliche Veränderungen möglich sind. Wie lässt sich die Handlungfähigkeit ("agency") der sozialen Subjekte steigern, deren Subjektivität unauflöslich mit medialen Repräsentationen aller Art verwoben ist?" (Ebd.) Die Kritische Filmsoziologie geht davon aus, dass die "Produktionsebene" der Filme gewisse Ziele verfolgt. Sie verschlüsselt Botschaften in Filmen, die dann durch das Fernsehen wieder entschlüsselt werden. Dabei muss die Botschaft nicht im Sinne der Produktionsebene entschlüsselt werden. So analysiert die Kritische Filmsoziologie zum Beispiel verschiedene Interpretationen von Filmen. (@Winter300 p. 157--162).
+...
 
 
 
