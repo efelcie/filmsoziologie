@@ -1,12 +1,8 @@
 ---
 title:		Film-Bindestrich-Soziologie
-author: 	Peter Flucher
-date: 		Winter 2013/14
-keywords: 	[soziologie, film, theorie]
-abstract: |
-			Der Grund für das Scheitern der Filmsoziologie ist das Fehlen eines gemeinsamen Erkenntnis-Interesse. Wenn Film in der Soziologie vorkommt, dann als Artefakt, der mit der Gesellschaft in Beziehung gesetzt wird. Film ist entweder sozial verursacht oder hat soziale Auswirkungen. Jedoch ist der Film selbst nicht sozial, und kann somit nicht im Erkenntnisinteresse der Soziologie stehen. Eine Film-Soziologie in dessen Mittelpunkt der Film steht, benötigt eine soziologische Definiton von Film. Film selbst muss soziologisch verstanden werden. So eine Film-Soziologie zeigt, wie aus Gesellschaft Film und dann wieder Gesellschaft wird und verbindet somit die zwei Enden der Filmsoziologie.
+author:		Peter Flucher
+date:		Frühling 2014
 ---
-
 
 
 # Was will die Filmsoziologie eigentlich?
@@ -24,23 +20,21 @@ Der dritte und letzte Abschnitt zeigt, wie *Film-Soziologie* den Spagat zwischen
 
 
 
-# Das Scheitern einer gemeinsamen Filmsoziologie
-
-## Perspektiven der Filmsoziologie
+# Perspektiven der Filmsoziologie
 
 Die Texte die sich theoretisch und methodologisch mit Filmsoziologie beschäftigen, stellen sich zunächst die Frage warum Filmsoziologie nicht etablierter ist. Die Soziologie hat sich früh mit dem Medium Film beschäftigt, jedoch auch schnell das Interesse wieder verloren. [@Mai/Winter2006 p. 7]
-Warum ignoriert die Soziologie den Film, "eines der wichtigsten und gleichzeitig vielfach verwendeten Medien- und Kommunikationsformate der modernen Gesellschaften?" [@Heinz2007 p. 7]
+Warum ignoriert die Soziologie den Film, "eines der wichtigsten und gleichzeitig vielfach verwendeten Medien- und Kommunikationsformate der modernen Gesellschaften?" fragt zum Beispiel @Heinz2007 [p. 7].
 
-Die Antworten darauf fallen sehr unterschiedlich aus. So meint @Heinze/Moebius/Reicher2012 [p. 7f.] das "der Umgang mit dem Film zu selbstverständlich, Film als ästhetischer Gegenstand zu unsicher oder auf den ersten Blick zu banal, als dass sich die gegenwertige Soziologie darum bemühte, Zugänge zu einem der wichtigsten und komplexesten Ausdrucksformen unserer Zeit zu finden." Ebenfalls vermutet er das der "schwierige empirische Zugang" [@Heinze/Moebius/Reicher2012 p. 9] für die Soziologie ein Problem darstellt. Wobei er nicht ausführt warum gerade der Zugang zum Film schwierig sein soll.
+Die Antworten darauf fallen sehr unterschiedlich aus. So meint @Heinze/Moebius/Reicher2012 [p. 7f.] das "der Umgang mit dem Film zu selbstverständlich, Film als ästhetischer Gegenstand zu unsicher oder auf den ersten Blick zu banal, als dass sich die gegenwertige Soziologie darum bemühte, Zugänge zu einem der wichtigsten und komplexesten Ausdrucksformen unserer Zeit zu finden." Ebenfalls vermuteten sie, dass der "schwierige empirische Zugang" [@Heinze/Moebius/Reicher2012 p. 9] für die Soziologie ein Problem darstellt. Wobei nicht ausgeführt wird, warum gerade der Zugang zum Film schwierig sein soll.
 Einen weiterer Grund "für die nur vereinzelt stattfindende Auseinandersetzung mit dem Film" sieht @Schroer2012 [p. 15] in einer "weit verbreitete[n] Distanz gegenüber den Produkten der Massenkultur, denen die Soziologie mit 'Ekel und Verachtung' [@Denzin2008 p. 90] begegnet." 
 
-Dies sind primär Erklärungen warum sich keiner an der Filmsoziologie versucht. Aber ganz so sieht es ja nicht aus. Es gibt sie ja, die soziologischen Arbeiten die sich mit Film auseinander setzen. Jedoch ist es äußerst schwierig diese Arbeiten in einen Topf zu werfen. Gemeinsam fast alle Arbeiten, das Film als Artefakt verstanden wird der endweder Produkt der Gesellschaft ist oder ein Faktor der die Gesellschaft beeinflusst. Wenn wir uns beide Perspektiven genauer untersuchen, werden wir feststellen das ihre unterschiedlichen Anliegen unter diesen Voraussetzungen nur schwer miteinander vereinbar sind.
+Dies sind primär Erklärungen warum sich keiner an der Filmsoziologie versucht. Aber ganz so sieht es ja nicht aus. Es gibt sie ja, die soziologischen Arbeiten die sich mit Film auseinander setzen. Jedoch ist es äußerst schwierig diese Arbeiten in einen Topf zu werfen. Gemeinsam haben fast alle Arbeiten, das Film als Artefakt verstanden wird der endweder Produkt der Gesellschaft ist oder ein Faktor der die Gesellschaft beeinflusst. Wenn wir uns beide Perspektiven genauer untersuchen, werden wir feststellen das ihre unterschiedlichen Anliegen unter diesen Voraussetzungen nur schwer miteinander vereinbar sind.
 
 Die Perspektive, die den Film als Produkt der Gesellschaft betrachtet und der Film die Gesellschaft wiederspiegelt, nenne ich *Spiegelfilmsoziologie*. [@Bleyenberg2001 [/12.htm](http://www.bleyenberg.de/kultfilme/12.htm)] Die andere Perspektive, die sich hauptsächlich mit dem Film als Faktor, der die Gesellschaft beeinflusst beschäftigt, nennen ich angelehnt an @Latour2010 [p. 22] *Kritische Filmsoziologie*. Die Spiegelfilmsoziologie ermöglicht uns durch den Film einen Blick auf die Gesellschaft, die durch den Film repräsentiert wird. Die Kritische Filmsoziologie beschäftigt sich mit der Macht, die Filme auf bestimmte Gruppen ausüben. Beide Ansätze gehen vom Film aus, haben aber ganz unterschiedliche Ziele. Gemeinsam haben beide Strömungen den Ausgangspunkt und die Sehnsucht nach einer stärkeren Filmsoziologie. Jedoch will keine der zwei Perspektiven primär den Film erklären, sondern der Film ist Werkzeug, um entweder Informationen über die Gesellschaft zu bekommen oder zu erklären warum sich Gesellschaft wie verhält.
 
 ## Spiegelfilmsoziologie
 
-Schon @Aristoteles legt als Aufgabe der Dichter die Nachahmung der Gesellschaft und das Hervorheben des allgemeinen fest. Die Standardwerke über die Kunst des Filme-machens übernehmen dies und bauen es zu einem komplexen Regelwerk aus. Funktionierende Filme, sind nach dieser Theorie Filme, die die Gesellschaft angemessen abbilden.
+Schon @Aristoteles legt als Aufgabe der Dichter die Nachahmung der Gesellschaft und das Hervorheben des allgemeinen fest. Die ersten Theoretiker, wie @Tannenbaum1912 oder @Lenz-Levy1913, die sich mit dem damals neuen Medium Film auseinander gesetzt haben, bezogen stark auf die Poetik und auch die heutigen Standardwerke über die Kunst des Filme-machens übernehmen dies und bauen es zu einem komplexen Regelwerk aus. Funktionierende Filme, sind nach dieser Theorie Filme, die die Gesellschaft angemessen abbilden. [Vgl. @Diederichs2001; @McKey]
 
 Die Spiegelfilmsoziologie übernimmt die Annahme, dass Film die Gesellschaft repräsentiert. Das Handeln im Film ist vom Handeln der Gesellschaft *verursacht*. Somit kann von der Handlung im Film auf die Gesellschaft geschlossen werden. Da filmisches Material leicht zugänglich und dessen Konsum statistisch gut dokumentiert ist, ist die Spiegel-Filmsoziologie ein effektiver Weg, um mehr über eine Gesellschaft herauszufinden oder gewisse Gruppen anhand ihrer Filme zu vergleichen.  Folgt man dieser Theorie, so hat man Beschreibungen der Gesellschaft die sich auf das typische Beschränken, Beschreibungen die stimmen. Da die meisten Filme Menschen darstellen die Handeln, kann jetzt das Handeln der Menschen im Film analysiert werden, und es kann davon ausgegangen werden das hier schon fertige Typen handeln. Diese Typen passen offenbar zu der Gesellschaft in der sie funktionieren. Also wie haben Modelle der Gesellschaft die wir vergleichen können. Filmanalyse wird so zu einem Vehikel für die Gesellschaftsanalyse. [@Mai/Winter2006 p. 8 f.] 
 
@@ -69,6 +63,13 @@ Der wichtigste und auch aktivste Zweig der Kritischen Filmsoziologie ist die "Fi
 
 
 
+
+
+
+
+
+
+
 ## Der Film als großer Graben
 
 
@@ -80,7 +81,9 @@ Die Kritische Filmsoziologie findet im Film Beeinflussungen der Gesellschaft. Es
 
 Sehen wir uns dafür ein fiktives Beispiel an: Wir haben einen Film in dem viel mehr männliche wichtige Rollen gibt als weibliche. Nun könnten wir einerseits behaupten, der Film spiegelt ein Ungleichgewicht in unserer Gesellschaft wieder. Andererseits könnten wir behaupten der Film begünstigt durch seine Darstellung ein Ungleichgewicht in der Gesellschaft. Beide Sichtweisen haben ihre Berechtigung, jedoch haben sie andere Ziele. Die erste will mit Hilfe des Films etwas über die Gesellschaft herausfinden und die zweite will die Wirkung von Film auf die Gesellschaft darstellen. Beide Zugänge sind der soziologischen Richtung aus der sie kommen näher als sich gegenseitig. Solange der Film ein starrer Artefakt ist, macht eine Annäherung keinen Sinn. 
 
-Ich habe die zwei Perspektiven der Filmsoziologie aufgrund ihres Erkenntnisinteresse unterschieden. Diese Unterscheidung ist jedoch in sehr vielen Punkten deckungsgleich mit der Unterscheidung die bereits @Altenloh1913 getroffen hat. Ihr schien es zweckmäßig sich dem Film von der "Produktion" und vom "Publikum" anzunähern.[^Altenloh] Die Spiegelfilmsoziologie nähert sich meist vom Publikum her über quantitative Studien dem Film. Die Kritische Filmsozologie geht meist von der Produktion aus, wobei die Produktion viel weiter als noch bei Altenloh geht, und auch noch die Entschlüsselung durch das Publikum ein Teil der Produktion ist. Jedoch schon bei Altenloh liegt der Film selbst wie ein Graben zwischen den zwei Zugängen. 
+Ich habe die zwei Perspektiven der Filmsoziologie aufgrund ihres Erkenntnisinteresse unterschieden. Diese Unterscheidung ist jedoch in sehr vielen Punkten deckungsgleich mit der Unterscheidung die bereits @Altenloh1913 getroffen hat. Ihr schien es zweckmäßig sich dem Film von der "Produktion" und vom "Publikum" anzunähern. Die Spiegelfilmsoziologie nähert sich meist vom Publikum her über quantitative Studien dem Film.[^Altenloh] Die Kritische Filmsozologie geht meist von der Produktion aus, wobei die Produktion viel weiter als noch bei Altenloh geht, und auch noch die Entschlüsselung durch das Publikum ein Teil der Produktion ist. Jedoch schon bei Altenloh liegt der Film selbst wie ein Graben zwischen den zwei Zugängen.
+
+
 
 
 
@@ -93,6 +96,9 @@ Hat man bei den meisten anderen Speziellen Soziologien einen Gegenstand der selb
 
 Die Spiegel-Filmsoziologie untersucht Unterschiede zwischen Filmen, die für Gesellschaften stehen. Die Kritische Filmsoziologie untersucht Unterschiede zwischen Filmen und der Gesellschaft. Beide Formen sind nicht sinnvoll miteinander kombinierbar. Denn die Spiegel-Filmsoziologie macht nur Sinn, wenn von einer Repräsantation ausgegangen werden kann. Muss die Repräsentation überprüft werden, könnte man gleich die zwei Gesellschaften miteinander Vergleichen. Eine gemeinsame Filmsoziologie ist unter diesen Umständen nicht sinnvoll. Zu unterschiedlich sind die Ziele und Methoden. 
 
+Trotzdem gibt es beständige Bemühungen eine gemeinsame Filmsoziologie zu schaffen mit einer gemeinsamen Methodologie zu schaffen. Obwohl man auch Methodologisch der *Stammsoziologie* viel näher ist. So macht das für mich keinen Sinn. Vielleicht ist Film doch mehr?
+
+
 
 # Sozialer Film
 
@@ -101,23 +107,89 @@ Eine Film-Soziologie, die den Film als Mittelpunkt hat, benötigt eine soziologi
 
 In den zuvor beschriebenen Ansätzen war Film, immer ein Gegenstand. Die chronologische Anordnung von Bildern und Tönen. Jedoch für viele ist Film weit mehr als nur Bilder und Töne. Wenn ich daran Denke, das ich *beim Film* gearbeitet habe, denke ich nicht an Bilder und Töne, sondern an eine ganz spezielle Arbeitsweise. Ich denken an Abläufe Regeln, Förderungen, Zufälle, und so weiter. Wenn ich eine bestimmte Einstellung erklären will, warum die genau so ausschaut, dann kann ich das meistens nur erklären wenn ich sehr viele verschiedene Ebenen ins Spiel bringe. Ein Transkript oder gar das Drehbuch kann Teil dieser Erklärungen sein, aber meist nur ein kleiner. Hier wirken viele theoretische Modelle zusammen: Betriebswirtschaftliche Modelle, Modelle über das Geschichten-Erzählen, spezielle technische Theorien, über Kamera, Licht, Schnitt, usw. Jede dieser Theorien tragen einen mehr oder weniger Großen Teil zu den einzelnen Einstellungen bei.
 
-In der deutschen, soziologischen Literatur ist das verständnis von Film immer das eines Gegenstands. Jedoch es wird vermehrt festgestellt das die Soziologie in den Film *hinein* gehen muss. So meint @Winter2012 [p. 57],dass sich die Filmsoziologie mehr Theorien und Methoden der Film Studies bedienen sollte und multiperspektivische Mikroanalysen einzelner Filme durchgeführt werden sollten, die den Filmtext, seine Produktions- und Dristibutionsbedinguenen so wie Rezeptions- und Aneignunskontexte und der Form tiefgehende beachtung geschenkt werden soll. Oder auch @Mikos2006 [p. 96] der meint, dass untersucht werden muss, auf welche Weise sich die Perspektiven der Produktion und Rezeption im Film treffen. @Schroer2012 [p. 28] sieht eine Aufgabe der Filmsoziologie, die technischen Mittel, die zur Fertigung des Films benötigt werden sichtbar zu machen.
+In der deutschen, soziologischen Literatur ist das verständnis von Film immer das eines Gegenstands. Dabei ändern auch die Arbeiten die sich anstatt des Films mit dem Kino auseinandersetzen nichts. Jedoch es wird vermehrt festgestellt das die Soziologie in den Film *hinein* gehen muss. So meint @Winter2012 [p. 57],dass sich die Filmsoziologie mehr Theorien und Methoden der Film Studies bedienen sollte und multiperspektivische Mikroanalysen einzelner Filme durchgeführt werden sollten, die den Filmtext, seine Produktions- und Dristibutionsbedinguenen so wie Rezeptions- und Aneignunskontexte und der Form tiefgehende beachtung geschenkt werden soll. Oder auch @Mikos2006 [p. 96] der meint, dass untersucht werden muss, auf welche Weise sich die Perspektiven der Produktion und Rezeption im Film treffen. @Schroer2012 [p. 28] sieht eine Aufgabe der Filmsoziologie, die technischen Mittel, die zur Fertigung des Films benötigt werden sichtbar zu machen.
 
-Ein erweitertes Verständnis von Film können wir zum Beispiel bei @Becker2014 finden. Er dekonstruiert die Auffassung das Kunst das Werk eines Künstlers ist, und beschreibt Kunst als Kommunkationen zwischen Menschen. Kunst braucht neben den Kunstschaffenden und den Kunstwerken Menschen die die Kunst möglich machen. Sei das jetzt Handwerker, Förderstellen oder Publikum. Kunst ist nicht völlige Abgeschlossenheit im Atelier sondern Kunst ist mit der Welt verbunden. Und das nicht nur durch das Kunstwerk. Besonders deutlich wird das wenn wir im Abspann eines Films hunderte Namen über die Leinwand gleiten sehen. Namen von Menschen die persönlich am Film mitgearbeitet haben, oder Namen von Instutitionen die für Firmen oder staatliche Instutitionen stehen. Becker streift den Film nur, jedoch gibt schöne Beispiele dafür wie einen Filmsoziologie, die sich für Filme als lebendige soziale Organismen interessiert funktionieren kann.
+
 
 Film ist das, was entsteht wenn sich verschiedenste Blickwinkel zu einem Film vereinen. Aufgabe der Film-Soziologie ist es zu zeigen wie sich die verschiedenen Blickwinkel treffen.
 
 
-# Film-Soziologie als Bindeglied
-
-
-Gehen wir noch einmal zurück zum Begin meiner Reise, in das Innere der Film(-)soziologie. Am Anfang, war ich enttäuscht, dass Filmschaffende, die sich in vielen Punkten sehr *soziologisch* verhalten, nichts mit Filmsoziologie anfangen können. Dann kam die Erkenntnis, dass auch Filmsoziologieschaffende, die aus verschiedenen Ecken kommen, sich nicht viel mit der Filmsoziologie aus der anderen Ecke anfangen. Eine Film-Soziologie, die den Film als Verknüpfungsbündel zwischen vielen verschiedenen Akteuren sieht, verbindet nicht nur Spiegel- und Kritische Filmsoziologie, sondern bindet gleichzeitig alle anderen Akteure, Filmschaffende, Fans und Technik ein. Film verknüpft Gesellschaft mit der eigenen Person [Winter2006 p.91] und Filmsoziologie zeigt wie diese Verknüpfungen statt finden und wie von einem Strang in den anderen übersetzt wird. Da jedoch Film multidimensional ist, kann Film nicht als lineare Übersetzung gedacht werden. Bzw. wenn ein Weg von A über Film nach B gedacht wird, muss die Veränderung von A nach B über andere Stränge erklärbar sein. 
 
 
 
-Das Ziel ist es Beschreibungen über Beschreibungen von Filmen anzufertigen, die den einzelnen Enden, den Film als komplexes ganzes verstehen lässt.
+## Altenloh
 
-Filme sind ein Davor und ein Danach Filme sind eine spezifische Verknüpfung von dem Davor mit dem Danach. Der Film ist nicht mehr und nicht weniger als diese Verknüpfung. Jedoch ist es nicht so leicht, dass man einfach die zwei oben genannten Soziologien mixen kann. Würde aus der Gesellschaft direkt Wirkung werden müsste man den Film garnicht erst analysieren. Doch das Verknüpfungsbündel, der Knoten Film, hat noch viele andere Enden. Eine Filmsoziologie, wie ich sie mir vorstelle, hat diese Enden zu identifizieren und zu zeigen wie diese Enden die scheinbare lineare Wirkung Gesellschaft -> Film -> Wirkung beeinflussen.
+Am Beginn der Filmsoziologie steht die Arbeit von @Altenloh1914, die ihre Arbeit den Auswirkungen des Kinematographen widmet. Sie erachtet es für sinnvoll, sich dem Kinematographen von zwei Richtungen zu nähern, der Produktion und dem Publikum. Für Altenloh, die oft zitiert, aber oft auch auf "Publikumsstudien" (?) reduziert wird, ist der Film selbst noch inmitten des Interesses. Altenloh verwendet den Film weder als Messwerkzeug noch interessiert sie sich dafür, wie einzelne Filme das Publikum beeinflussen. Sie interessiert sich für die gesellschaftlichen Veränderungen, die mit und durch den Kino passieren. Die zwei Richtungen für die sie sich entschied um dem Kino zu nähern, zeigt zwei Punkte die durch das Kino, oder dann weiter, den Film miteinander Verbunden werden. Bei Altenloh ist die Maschine, der Kinematograph das Zentrum ihrer soziologischen Untersuchungen.
+
+
+
+## Becker
+
+Ein erweitertes Verständnis von Film können wir zum Beispiel bei @Becker2014 finden. Er dekonstruiert die Auffassung das Kunst das Werk eines Künstlers ist, und beschreibt Kunst als Kommunkationen zwischen Menschen. Kunst braucht neben den Kunstschaffenden und den Kunstwerken Menschen die die Kunst möglich machen. Sei das jetzt Handwerker, Förderstellen oder Publikum. Kunst ist nicht völlige Abgeschlossenheit im Atelier sondern Kunst ist mit der Welt verbunden. Und das nicht nur durch das Kunstwerk. Besonders deutlich wird das wenn wir im Abspann eines Films hunderte Namen über die Leinwand gleiten sehen. Namen von Menschen die persönlich am Film mitgearbeitet haben, oder Namen von Instutitionen die für Firmen oder staatliche Instutitionen stehen. Becker streift den Film nur, jedoch gibt schöne Beispiele dafür wie einen Filmsoziologie, die sich für Filme als lebendige soziale Organismen interessiert funktionieren kann.
+
+
+## Filmtheorie
+
+Begreift man Film als etwas soziales, als geballte Handlung, das aneinander prallen vieler Menschen, dann darf man natürlich auch nicht die formalisierten Theorien, dich sich mit dem Film beschäftigen außer acht lassen. Grob lassen sich die Bereiche in das Wirtschaftliche, das Technische im Sinne von neuer Geräte und das bildhafte Geschichten-Erzählen unterteilen.
+
+Lässt man diese Theorien ausser acht, kann man einerseits nicht ihrer Wirkung auf die Filme messen, anderer seits kann man sich nicht sicher sein, ob andere Effekte die man, zum Beispiel auf irgend welche Mächte zurück führt, nicht besser durch ebenso eine Theorie erklärt werden.
+
+## Publikum
+
+Dem Publikum wird schon seit Altenloh Aufmekrsamkeit Geschenkt. Was sind die Theorien des Publikums? Warum gefällt denen ein Film? Oder wie beeinflusst ein Film das Publikum? Das sind wahrscheinlich die spannendsten Fragen für die meisten Soziologieschaffenden. Und es ist wahrscheinlich eine der besten erforschten Enden der Film-Soziologie. Die ersten Ideen werden schon mit dem Publikum im Kopf erschaffen.
+
+Was kann das Publikum verändern? Welche Theorien biegen sich, welche nicht?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -138,8 +210,34 @@ Filme sind ein Davor und ein Danach Filme sind eine spezifische Verknüpfung von
 
 [^Kurzvita]: Geb. 1947 in Sterzing (Italien), Dr. phil. Universität Wien 1974, Habilitation Universität Mannheim 1984, seit 1985 o. Professor für Soziologie an der Universität Graz; 1986-89 Präsident der »Österreichischen Gesellschaft für Soziologie«, Mitbegründer und Vorstandsmitglied der European Sociological Association; korresp. Mitglied der österreichischen Akademie der Wissenschaften und zahlreicher in- und ausländischer wissenschaftlicher Gesellschaften; Beiratsmitglied mehrerer internationaler soziologischer Zeitschriften (Kölner Zeitschrift für Soziologie, Schweizerische Zeitschrift für Soziologie u.a.) und wissenschaftlicher Institutionen. [@Haller]
 
-
 [^Altenloh]: Wobei Altenloh, anders als ich es der aktuellen Filmsoziologie vorwerfe, am Film, oder am Kino selbst Interesse hatte.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -457,6 +555,7 @@ references:
   publisher-place:	Münster
   edition:			5
 
+
 - id:			Altenloh1913
   type:			book
 
@@ -471,6 +570,8 @@ references:
   collection-title:	Schriften zu Soziologie und Kultur
   volume:			3
   url:				http://www.massenmedien.de/allg/altenloh/index.htm
+
+
 
 ---
 
