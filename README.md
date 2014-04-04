@@ -8,3 +8,21 @@ Infos
 -----
 
 Bachelaureatsarbeit für Soziologie an der Universtität Graz.
+
+
+Technisch
+---------
+
+
+Ich schreibe die Arbeit in *einer* Textdatei. Um die Textdatei in ein Druckfertiges Format umzuwandeln verwende ich *pandoc* das mir via *LaTeX* eine PDF-Datei setzt.
+
+    pandoc -i draft.md -o draft.pdf --filter pandoc-citeproc --csl=kzfss.csl
+
+Vorausetzung sind die die Programme *pandoc* und eine *LaTeX* Distribution.
+Die Bibliographie ist am Ende des Dokuments in Form einer YAML-Liste notiert und wird mit pandoc und einer Vorlage für den Zitierstil der Köllner Zeitschrift für Soziologie und Sozialpsychologie gesetzt.
+
+### Links
+
+<http://johnmacfarlane.net/pandoc/README.html#citations>
+<https://www.tug.org/texlive/>
+<https://github.com/citation-style-language/styles/blob/master/kolner-zeitschrift-fur-soziologie-und-sozialpsychologie.csl>
