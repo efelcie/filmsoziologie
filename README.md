@@ -23,6 +23,6 @@ Die Bibliographie ist am Ende des Dokuments in Form einer YAML-Liste notiert und
 
 ### Links
 
-<http://johnmacfarlane.net/pandoc/README.html#citations>
-<https://www.tug.org/texlive/>
-<https://github.com/citation-style-language/styles/blob/master/kolner-zeitschrift-fur-soziologie-und-sozialpsychologie.csl>
+- <http://johnmacfarlane.net/pandoc/README.html#citations>
+- <https://www.tug.org/texlive/>
+- <https://github.com/citation-style-language/styles/blob/master/kolner-zeitschrift-fur-soziologie-und-sozialpsychologie.csl>
